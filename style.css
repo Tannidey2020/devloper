@@ -1,0 +1,62 @@
+table{
+    border-collapse: collapse;
+}
+td,
+th{
+border: 1px solid red;
+background-color: aquamarine;
+}
+
+.ttt{
+    background-color: cadetblue;
+    display: flex;
+    
+}
+
+.ttt>div{
+    background-color: brown;
+    width: 100px;height: 100px;
+    margin: 10px;
+    
+    font-size: 20px;
+}
+.tt{
+    background-color: blueviolet;
+    
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tt>div{
+    background-color: aqua;
+    width: 100px;
+    margin: 10px; ;
+    height: 100px;
+} 
+.c{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+margin: 20px;
+}
+.e{display: flex;
+gap: 20px;
+font-size:30px;
+}
+.f{
+    border: 2px solid red;
+    background-color: blue;
+    color: yellow;
+}
+.g{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid green;
+    gap: 40px;
+    height: 400px;
+    background-color: cadetblue;
+    border-radius: 10%;
+}
+
+

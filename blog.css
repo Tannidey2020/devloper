@@ -1,0 +1,17 @@
+div{
+ width: 300px;
+ background-color: burlywood;
+ color: aliceblue;
+ padding: 10px;
+ font-size: 20pxpx;
+ margin: 10px;
+ text-align: justify;
+ display: inline-block;
+
+ 
+}
+span{
+    display: block;
+    background-color: aqua;
+    font-size: 20px;
+}

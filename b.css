@@ -1,0 +1,78 @@
+div{
+    
+    font-size: 20px;
+    padding: 10px;
+color: gray;
+}
+.tanni
+{
+    background-color: blue; 
+    color: aliceblue;
+}
+
+#pri{
+    background-color: brown;
+    font-size: 30px; 
+    color: aliceblue;
+}
+button{
+    background-color: blueviolet;
+}
+ul{
+    background-color: cadetblue;
+}
+ol{
+    background-color: chocolate;
+    color: aliceblue;
+}
+.how{
+    background-image: url(/assets/download\ \(7\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    color:white;
+    height: 500px;
+    border: 5px solid green;
+    margin: 0 auto;
+}
+
+.grid{background-color:aqua}
+.how{
+    background-color: greenyellow;
+    text-align: center;
+}
+.off{
+    text-align: center;
+    padding: 30px;
+}
+.wellcome{
+    
+    background-image: url(/assets/images\ \(4\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: white;
+    font-size: 20px;
+    width: 800px;
+    padding: 40px;
+    margin: 0 auto;
+}
+.botton{background-color: white;
+    font-size: 30px;
+    color: black;
+    border-radius: 5%;
+    
+    
+}
+.Ami{text-align: center;
+    font-size: 20px;
+    background-color: darkgray;
+    width: 700px;
+    padding: 90px;
+    margin: 0 auto;
+}
+.happy{display: flex;gap: 20px;
+    
+  
+}
+    

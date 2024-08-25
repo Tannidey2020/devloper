@@ -1,0 +1,118 @@
+div{
+
+    background-color: aquamarine;
+    display: inline-block;
+    width: 300px;
+
+}
+span{
+    background-color: blue;
+    font-size: 20px;
+}
+
+body{
+    background-color: burlywood;
+}
+
+.pp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    
+}
+
+h1{
+    background-color: black;
+    color: aliceblue;
+}
+
+.ll{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 0% 30px;
+
+
+}
+.list{
+display: flex;
+gap: 10px;
+}
+
+.list li{
+list-style: none;
+padding: 5px;
+display: flex;
+}
+.mm{background-color: aqua;
+
+}
+
+.power
+{display: flex; 
+gap: 10px;
+}
+.her{
+background-color: aquamarine;
+width: 500px;
+ margin: 0 auto;
+ padding: 20px;
+text-align: center;
+font-size: 20px;
+
+}
+
+.a{
+width: 300px;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+font-size: 20px;
+}
+.b{
+display: flex; 
+width: 500px;
+margin: 0 auto;
+text-align: center;
+gap: 20px;
+}
+img{width: 30px;
+}
+.c{
+width:500px;
+margin: 0 auto; 
+text-align: center;
+
+
+
+}
+.d{
+display: flex;
+width: 200;
+padding: 20PX;
+text-align: center;
+gap: 30PX;
+justify-content: center;
+}
+.e{
+text-align: center;
+margin: 0 auto; 
+width: 50px;
+}
+.f{
+display: flex;
+width: 0 auto;
+padding: 20px;
+text-align: center;
+gap: 30px;
+justify-content: center;
+height: 30px;
+
+}
+.o{
+background-color: blueviolet;
+width: 50px;
+font-size: 20px;
+
+} 
